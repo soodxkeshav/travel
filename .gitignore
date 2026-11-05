@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+.env*.local
+.dev.vars
+dev.log
+*.tsbuildinfo
+next-env.d.ts
+q.txt
+q2.txt
+q3.txt
+a.json
+b.json
+c.json
+demotest.json
+data.txt
+data2.txt

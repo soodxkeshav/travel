@@ -1,0 +1,730 @@
+{
+ "origin": {
+  "lat": 28.6139,
+  "lon": 77.209
+ },
+ "area": "Delhi",
+ "capturedAt": "2026-11-05T06:42:59.267Z",
+ "places": [
+  {
+   "name": "Mahatma Gandhi",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6178986,
+   "lon": 77.209002,
+   "distanceKm": 0.44,
+   "score": 29.555375923459597
+  },
+  {
+   "name": "Uprashtrapati Bhavan",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6162502,
+   "lon": 77.2038079,
+   "distanceKm": 0.57,
+   "score": 29.429773955822213
+  },
+  {
+   "name": "Jaipur Column",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6142483,
+   "lon": 77.201801,
+   "distanceKm": 0.7,
+   "score": 29.296209126713045
+  },
+  {
+   "name": "Rashtrapati Bhavan",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6143716,
+   "lon": 77.1995283,
+   "distanceKm": 0.93,
+   "score": 29.073942435818648
+  },
+  {
+   "name": "Lal Bahadur Shastri Memorial",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6085406,
+   "lon": 77.2188502,
+   "distanceKm": 1.13,
+   "score": 28.86875665340999
+  },
+  {
+   "name": "Misra Yantra",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6247721,
+   "lon": 77.2163925,
+   "distanceKm": 1.41,
+   "score": 28.592105789972354
+  },
+  {
+   "name": "Teen Murti Haifa War Memorial",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6047117,
+   "lon": 77.198888,
+   "distanceKm": 1.42,
+   "score": 28.579345276730013
+  },
+  {
+   "name": "Indira Gandhi Assassination Point",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6006552,
+   "lon": 77.2062126,
+   "distanceKm": 1.5,
+   "score": 28.502318986011385
+  },
+  {
+   "name": "Pope John-Paul II.",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.627901,
+   "lon": 77.2066688,
+   "distanceKm": 1.57,
+   "score": 28.426619151598576
+  },
+  {
+   "name": "Kushak Mahal",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6032851,
+   "lon": 77.1981758,
+   "distanceKm": 1.58,
+   "score": 28.415805346458704
+  },
+  {
+   "name": "Ram Yantra",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6265541,
+   "lon": 77.2165507,
+   "distanceKm": 1.59,
+   "score": 28.411592698716408
+  },
+  {
+   "name": "Jai Prakash Yantra",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6267717,
+   "lon": 77.2165261,
+   "distanceKm": 1.61,
+   "score": 28.39121799833006
+  },
+  {
+   "name": "Samrat Yantra",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6270301,
+   "lon": 77.2166036,
+   "distanceKm": 1.64,
+   "score": 28.362189365483193
+  },
+  {
+   "name": "Jantar Mantar",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6270993,
+   "lon": 77.2165964,
+   "distanceKm": 1.64,
+   "score": 28.355643486112527
+  },
+  {
+   "name": "Dandi March Statue (11 Murthi)",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6100877,
+   "lon": 77.1916453,
+   "distanceKm": 1.75,
+   "score": 28.25367033740761
+  },
+  {
+   "name": "Wall of Valour",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6036663,
+   "lon": 77.19399,
+   "distanceKm": 1.86,
+   "score": 28.144766421977494
+  },
+  {
+   "name": "Cenotaph",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6032514,
+   "lon": 77.1936683,
+   "distanceKm": 1.91,
+   "score": 28.091586444676125
+  },
+  {
+   "name": "India Gate",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6129323,
+   "lon": 77.2294919,
+   "distanceKm": 2,
+   "score": 27.996795488963024
+  },
+  {
+   "name": "Agrasen ki Baoli",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6260927,
+   "lon": 77.2250116,
+   "distanceKm": 2.07,
+   "score": 27.931022436658587
+  },
+  {
+   "name": "Shri Somnath Mandir",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6266298,
+   "lon": 77.2256537,
+   "distanceKm": 2.16,
+   "score": 27.84454314351864
+  },
+  {
+   "name": "Netaji Subhash Chandra Bose's canopy",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6128408,
+   "lon": 77.2311367,
+   "distanceKm": 2.16,
+   "score": 27.835922484174056
+  },
+  {
+   "name": "Param Yodha Sthal",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6150158,
+   "lon": 77.2312216,
+   "distanceKm": 2.17,
+   "score": 27.82731933670202
+  },
+  {
+   "name": "Gole Market",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6337456,
+   "lon": 77.2055953,
+   "distanceKm": 2.23,
+   "score": 27.768388147816424
+  },
+  {
+   "name": "Tomb of Sikandar Lodhi",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.5963019,
+   "lon": 77.2215511,
+   "distanceKm": 2.31,
+   "score": 27.691227883429576
+  },
+  {
+   "name": "Sikandar Lodhi's grave",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.5962198,
+   "lon": 77.2215535,
+   "distanceKm": 2.32,
+   "score": 27.68336118132695
+  },
+  {
+   "name": "National War Memorial",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6127561,
+   "lon": 77.2330444,
+   "distanceKm": 2.35,
+   "score": 27.64946503450733
+  },
+  {
+   "name": "Amar Jawan Jyoti",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6127616,
+   "lon": 77.2330498,
+   "distanceKm": 2.35,
+   "score": 27.64897175540965
+  },
+  {
+   "name": "Shish Gumbad",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.5937613,
+   "lon": 77.2201933,
+   "distanceKm": 2.49,
+   "score": 27.508289464106937
+  },
+  {
+   "name": "Bara Gumbad",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.5930299,
+   "lon": 77.2203334,
+   "distanceKm": 2.57,
+   "score": 27.42909337721713
+  },
+  {
+   "name": "Tomb of Muhammad Shah Sayyid",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.5910085,
+   "lon": 77.2182854,
+   "distanceKm": 2.7,
+   "score": 27.297986919925766
+  },
+  {
+   "name": "Muhammad Shah Sayyid's grave",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.5909401,
+   "lon": 77.2183041,
+   "distanceKm": 2.71,
+   "score": 27.290209289911264
+  },
+  {
+   "name": "Malcha Mahal",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6095605,
+   "lon": 77.1811038,
+   "distanceKm": 2.77,
+   "score": 27.234453585356196
+  },
+  {
+   "name": "Moluddin Chisti's Grave",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6070826,
+   "lon": 77.1800207,
+   "distanceKm": 2.93,
+   "score": 27.071304606947738
+  },
+  {
+   "name": "Sher Shah Suri Gate",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6086877,
+   "lon": 77.2390366,
+   "distanceKm": 2.99,
+   "score": 27.011190643862783
+  },
+  {
+   "name": "Talaqi Darwaza",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6117171,
+   "lon": 77.2416544,
+   "distanceKm": 3.2,
+   "score": 26.803201040753287
+  },
+  {
+   "name": "Lal Bangla Mausoleums",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6003217,
+   "lon": 77.2382214,
+   "distanceKm": 3.23,
+   "score": 26.77246134584564
+  },
+  {
+   "name": "Bada Darwaza",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.608861,
+   "lon": 77.2423079,
+   "distanceKm": 3.3,
+   "score": 26.70066777014725
+  },
+  {
+   "name": "Ashok Stambh",
+   "category": "Art & museum",
+   "vibes": [
+    "art",
+    "surprise"
+   ],
+   "lat": 28.6171085,
+   "lon": 77.21007,
+   "distanceKm": 0.37,
+   "score": 26.62825683951489
+  },
+  {
+   "name": "पुराना किला",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6093705,
+   "lon": 77.2441983,
+   "distanceKm": 3.47,
+   "score": 26.52734902215421
+  },
+  {
+   "name": "Purana Qila Baoli",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6092248,
+   "lon": 77.2443003,
+   "distanceKm": 3.48,
+   "score": 26.5151148042145
+  },
+  {
+   "name": "Dargah Hazrat Khwaja Mir Dard",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6399434,
+   "lon": 77.2291515,
+   "distanceKm": 3.5,
+   "score": 26.49933902405351
+  },
+  {
+   "name": "Kali Bari Marg Market",
+   "category": "Local market",
+   "vibes": [
+    "food",
+    "surprise"
+   ],
+   "lat": 28.627548,
+   "lon": 77.2051145,
+   "distanceKm": 1.56,
+   "score": 26.43573997307345
+  },
+  {
+   "name": "Sher Mandal",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6086583,
+   "lon": 77.2450597,
+   "distanceKm": 3.57,
+   "score": 26.432040295300027
+  },
+  {
+   "name": "Parliament Museum",
+   "category": "Art & museum",
+   "vibes": [
+    "art",
+    "surprise"
+   ],
+   "lat": 28.6188009,
+   "lon": 77.2072519,
+   "distanceKm": 0.57,
+   "score": 26.428954722369756
+  },
+  {
+   "name": "Graveyard",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6456914,
+   "lon": 77.2164107,
+   "distanceKm": 3.61,
+   "score": 26.391723380921555
+  },
+  {
+   "name": "Qadam Sharief s Tomb",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6461506,
+   "lon": 77.2153853,
+   "distanceKm": 3.64,
+   "score": 26.360149035324923
+  },
+  {
+   "name": "Humayun Darwaza",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6068826,
+   "lon": 77.2454616,
+   "distanceKm": 3.64,
+   "score": 26.356177953632532
+  },
+  {
+   "name": "Kunwari Begum ka Burj",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6464284,
+   "lon": 77.2153531,
+   "distanceKm": 3.67,
+   "score": 26.330243860760667
+  },
+  {
+   "name": "Tomb of Najaf Khan",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.5808697,
+   "lon": 77.2135668,
+   "distanceKm": 3.7,
+   "score": 26.3002351651886
+  },
+  {
+   "name": "Gol Gumbad",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.5924494,
+   "lon": 77.2388326,
+   "distanceKm": 3.76,
+   "score": 26.235539143473392
+  },
+  {
+   "name": "Kos Minar",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6024564,
+   "lon": 77.2454237,
+   "distanceKm": 3.78,
+   "score": 26.22349866176512
+  },
+  {
+   "name": "Ajmeri Gate",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.646253,
+   "lon": 77.224004,
+   "distanceKm": 3.88,
+   "score": 26.11588636807036
+  },
+  {
+   "name": "Azimganj Serai",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.5991759,
+   "lon": 77.2451676,
+   "distanceKm": 3.89,
+   "score": 26.10813904627746
+  },
+  {
+   "name": "Turkman Gate",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6422792,
+   "lon": 77.2326819,
+   "distanceKm": 3.91,
+   "score": 26.088422721467012
+  },
+  {
+   "name": "Janpath New Mini Market",
+   "category": "Local market",
+   "vibes": [
+    "food",
+    "surprise"
+   ],
+   "lat": 28.6290954,
+   "lon": 77.2181663,
+   "distanceKm": 1.91,
+   "score": 26.08808851563067
+  },
+  {
+   "name": "Janpath Old Mini Market",
+   "category": "Local market",
+   "vibes": [
+    "food",
+    "surprise"
+   ],
+   "lat": 28.6290518,
+   "lon": 77.2188985,
+   "distanceKm": 1.94,
+   "score": 26.05782635308977
+  },
+  {
+   "name": "Khooni Darwaza",
+   "category": "Historic site",
+   "vibes": [
+    "history",
+    "surprise"
+   ],
+   "lat": 28.6359942,
+   "lon": 77.2410157,
+   "distanceKm": 3.97,
+   "score": 26.02502204109269
+  },
+  {
+   "name": "Charriot temple",
+   "category": "Art & museum",
+   "vibes": [
+    "art",
+    "surprise"
+   ],
+   "lat": 28.6112568,
+   "lon": 77.2185735,
+   "distanceKm": 0.98,
+   "score": 26.02034911939709
+  },
+  {
+   "name": "Mohan Singh Place",
+   "category": "Local market",
+   "vibes": [
+    "food",
+    "surprise"
+   ],
+   "lat": 28.6307005,
+   "lon": 77.2160054,
+   "distanceKm": 1.99,
+   "score": 26.010664367657107
+  },
+  {
+   "name": "National Philatelic Museum",
+   "category": "Art & museum",
+   "vibes": [
+    "art",
+    "surprise"
+   ],
+   "lat": 28.6225223,
+   "lon": 77.2126107,
+   "distanceKm": 1.02,
+   "score": 25.978516671400577
+  }
+ ]
+}
